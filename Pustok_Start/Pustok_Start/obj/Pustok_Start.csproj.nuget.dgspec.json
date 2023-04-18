@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\abbas\\Desktop\\ASP .NET PROJECTS\\Pustok_Start\\Pustok_Start\\Pustok_Start.csproj": {}
+    "C:\\Users\\abbas\\Desktop\\ASP .NET PROJECTS\\PustokStart\\Pustok_Start\\Pustok_Start\\Pustok_Start.csproj": {}
   },
   "projects": {
-    "C:\\Users\\abbas\\Desktop\\ASP .NET PROJECTS\\Pustok_Start\\Pustok_Start\\Pustok_Start.csproj": {
+    "C:\\Users\\abbas\\Desktop\\ASP .NET PROJECTS\\PustokStart\\Pustok_Start\\Pustok_Start\\Pustok_Start.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\abbas\\Desktop\\ASP .NET PROJECTS\\Pustok_Start\\Pustok_Start\\Pustok_Start.csproj",
+        "projectUniqueName": "C:\\Users\\abbas\\Desktop\\ASP .NET PROJECTS\\PustokStart\\Pustok_Start\\Pustok_Start\\Pustok_Start.csproj",
         "projectName": "Pustok_Start",
-        "projectPath": "C:\\Users\\abbas\\Desktop\\ASP .NET PROJECTS\\Pustok_Start\\Pustok_Start\\Pustok_Start.csproj",
+        "projectPath": "C:\\Users\\abbas\\Desktop\\ASP .NET PROJECTS\\PustokStart\\Pustok_Start\\Pustok_Start\\Pustok_Start.csproj",
         "packagesPath": "C:\\Users\\abbas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\abbas\\Desktop\\ASP .NET PROJECTS\\Pustok_Start\\Pustok_Start\\obj\\",
+        "outputPath": "C:\\Users\\abbas\\Desktop\\ASP .NET PROJECTS\\PustokStart\\Pustok_Start\\Pustok_Start\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\abbas\\AppData\\Roaming\\NuGet\\NuGet.Config",

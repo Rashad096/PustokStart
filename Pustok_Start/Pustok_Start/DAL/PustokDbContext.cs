@@ -17,6 +17,7 @@ namespace Pustok_Start.DAL
         public DbSet<Tag>Tags { get; set; }
         public DbSet<BookTag> BookTags { get; set; }
         public DbSet<BookImage> BookImages {get; set; }
+        public DbSet<Setting> Settings { get; set; }
 
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
@@ -25,7 +26,10 @@ namespace Pustok_Start.DAL
 
             modelBuilder.Entity<BookTag>(x => x.HasKey(bt => new { bt.BookId, bt.TagId }));
             //modelBuilder.Entity<BookTag>().HasOne(x => x.Book).WithMany(x => x.BookTags);
+            modelBuilder.Entity<Setting>(x => x.HasKey(x => x.Key));
         }
+
+
 
     }
 }
